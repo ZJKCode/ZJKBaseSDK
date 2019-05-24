@@ -1,0 +1,6 @@
+framework module ZJKBaseSDK {
+  umbrella header "ZJKBaseSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
