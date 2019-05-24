@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
 #TODO: Add long description of the pod here.
 #                       DESC
 
-  s.homepage         = 'https://github.com/sweetjk/ZJKBaseSDK'
+  s.homepage         = 'https://github.com/ZJKCode/ZJKBaseSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'k721684713@163.com' }
+  s.author           = { 'ZJKCode' => 'k721684713@163.com' }
   s.source           = { :git => 'https://github.com/ZJKCode/ZJKBaseSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
